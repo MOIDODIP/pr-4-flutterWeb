@@ -1,0 +1,10 @@
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+**/generated_plugin_registrant.dart
+.idea/
+.vscode/
